@@ -10,7 +10,7 @@
     Without a name in the query string, force a “500” error.
 
 - The lab tree
-  - ![Tree](./src/assets/tree.png)
+  - ![Tree](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/tree.PNG)
 
 - Implementation Notes
   - index.js at the root of the repository, which will act as the “entry point” to my server.
@@ -46,17 +46,20 @@
   - Github
     - For the repo ***basic-express-server*** clicks => [here](https://github.com/shadykh/basic-express-server).
     - Pull Requests:
-
+        - [https://github.com/shadykh/basic-express-server/pull/1](https://github.com/shadykh/basic-express-server/pull/1)
     - Actions:
-
-
+        - [https://github.com/shadykh/basic-express-server/actions/runs/850088019](https://github.com/shadykh/basic-express-server/actions/runs/850088019)
+        - [https://github.com/shadykh/basic-express-server/actions/runs/850088157](https://github.com/shadykh/basic-express-server/actions/runs/850088157)
     - Local Tests:
-        - ![Local Test Image](./src/assets/tests.gif)
+        - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/tests.gif)
+    - GitHub Tests:
+        - ![github tests](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/githubtests.gif)
   - Heroku
     - For the link of the ***deployment main branch***  clicks => [here](https://shady-server-deploy-dev.herokuapp.com/).
   - UML:
-    - - ![Local Test Image](./src/assets/uml.png)
-
+    - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/uml.PNG)
+  - Tests:
+    - 
   - I did this lab with help of
     - Node.js.
     - express.
