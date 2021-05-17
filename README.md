@@ -47,6 +47,7 @@
     - For the repo ***basic-express-server*** clicks => [here](https://github.com/shadykh/basic-express-server).
     - Pull Requests:
         - [https://github.com/shadykh/basic-express-server/pull/1](https://github.com/shadykh/basic-express-server/pull/1)
+        - [https://github.com/shadykh/basic-express-server/pull/2](https://github.com/shadykh/basic-express-server/pull/2)
     - Actions:
         - [https://github.com/shadykh/basic-express-server/actions/runs/850088019](https://github.com/shadykh/basic-express-server/actions/runs/850088019)
         - [https://github.com/shadykh/basic-express-server/actions/runs/850088157](https://github.com/shadykh/basic-express-server/actions/runs/850088157)
@@ -55,11 +56,13 @@
     - GitHub Tests:
         - ![github tests](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/githubtests.gif)
   - Heroku
-    - For the link of the ***deployment main branch***  clicks => [here](https://shady-server-deploy-dev.herokuapp.com/).
+    - For the link of the ***deployment main branch***  clicks => [here](https://shady-basic-express-server.herokuapp.com/).
   - UML:
     - ![Local Test Image](https://raw.githubusercontent.com/shadykh/basic-express-server/main/src/assets/uml.PNG)
   - Tests:
-    - 
+    - Test the method and path ➡️ [logger.test.js]
+    - Test the name if it is in the request➡️ [validator.test.js]
+    - Test the routes and statues➡️ [server.test.js]
   - I did this lab with help of
     - Node.js.
     - express.
